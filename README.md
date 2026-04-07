@@ -1,3 +1,7 @@
-Hi, I'm Arijeet Sinha
+Hi, I'm Arijeet 👋
 
-I'm a BCA Student at Techno Main Salt Lake - Kolkata
+🎓 BCA Student 
+💡 Interested in AI/ML, Python & Cloud
+🚀 Building projects and learning every day
+
+📫 Contact me - sinhaarijeet78@gmail.com
