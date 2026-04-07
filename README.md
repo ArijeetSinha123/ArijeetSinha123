@@ -1,3 +1,3 @@
 Hi, I'm Arijeet Sinha
 
-BCA Student | Techno Main Salt Lake
+I'm a BCA Student at Techno Main Salt Lake - Kolkata
